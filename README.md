@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Colorful Watercolor Header](https://github.com/kamieliz/kamieliz/assets/4666871/b73ec687-eaa7-4c13-9c12-fa3dc4a8da00)
 
 <!--
 **kamieliz/kamieliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
